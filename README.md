@@ -25,11 +25,13 @@ Project Structure
 StudentManagementSystem/
 │
 ├── manage.py
+
 ├── starting/
 │   ├── settings.py
 │   ├── urls.py
 │   └── ...
 │
+
 ├── starting_app/
 │   ├── models.py
 │   ├── views.py
